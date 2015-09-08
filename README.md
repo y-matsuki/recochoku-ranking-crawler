@@ -1,7 +1,16 @@
 # recochoku-ranking-crawler
 
-- Recochoku Ranking Page Structure
- - e.g.) http://recochoku.jp/ranking/single/daily/
+## how to
+
+```
+git clone https://github.com/y-matsuki/recochoku-ranking-crawler.git
+cd recochoku-ranking-crawler
+npm install
+node sample_crawler.js
+```
+
+## Recochoku Ranking Page Structure
+ - http://recochoku.jp/ranking/single/daily/
 
 ```html
 <html>
